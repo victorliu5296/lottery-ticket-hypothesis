@@ -1,2 +1,2 @@
 # lottery-ticket-hypothesis
-Standalone experiment for verifying the Lottery Ticket Hypothesis paper using the MNIST dataset 
+Standalone python notebook experiment runnable in Google Colaboratory for verifying the [Lottery Ticket Hypothesis paper](https://arxiv.org/abs/1803.03635) using the MNIST dataset 
